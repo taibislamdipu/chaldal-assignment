@@ -1,0 +1,28 @@
+
+
+.green-circle{
+    background: green;
+    border-radius: 50%;
+}
+
+.date p{
+    font-size: 12px;
+}
+
+.delivery-slot{
+    background: lightgray;
+    border-radius: 7px;
+    text-align: center;
+    margin-right: 7px;
+    font-size: 13px;
+    /* font-weight: bold; */
+}
+
+.selected-date{
+    background: lightgreen;
+    color: green;
+}
+
+.btn-shadow button{
+    box-shadow: 0px 17px 35px -10px rgba(0,0,0,0.75);
+}
